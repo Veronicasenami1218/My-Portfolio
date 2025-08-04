@@ -15,7 +15,8 @@ Welcome to my personal portfolio website! This space showcases my skills in fron
 - HTML5  
 - CSS3  
 - VS Code as the code editor
-- Icons via custom SVGs
+- Icons via custom PNGs
+- Me.png
 
 ## 🚀 Setup Instructions
 
@@ -26,3 +27,4 @@ To run locally:
 git clone https://github.com/veronicasenami1218/portfolio-site.git
 
 # Open index.html in your browser
+## Or open it live here "veronica-tankpinu-portfolio.netlify.app"
